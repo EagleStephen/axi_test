@@ -1,2 +1,2 @@
-# axi_test
-master and slave with axi protocol on vhdl
+# AXI4 (Very Lite)
+Memory Slave in VHDL with Master Test bench
